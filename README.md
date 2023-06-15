@@ -4,17 +4,16 @@
 
 ## Hi there, I'm Zahra Khodabakhshian
 [![](https://dcbadge.vercel.app/api/shield/997729132127457400)](https://discordapp.com/users/997729132127457400)
-[![Linkedin: Mehrdad Shahidi](https://img.shields.io/badge/Mehrdad%20Shahidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrdad-shahidi/)
+[![Linkedin: Zahra-Khodabakhshian]([5](https://www.linkedin.com/in/zahra-khodabakhshian-580a41178/)?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrdad-shahidi/)
 [![Twitter: CyberKatzee](https://img.shields.io/badge/cyberkatzee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyberkatzee)
 ### 📫 How to reach me
    - This is my email 👉 zahrakhodabakhshian54@gmail.com](mailto:yahrakhodabakhshian54@gmail.com)
-   - Or you can send me a message directly on [Linkedin]([https://www.linkedin.com/in/zahrakhodabakhshian/](https://www.linkedi ) or [Discord](https://discordapp.com/users/997729132127457400/) 
-   - My twin brother [m3hransh](https://github.com/m3hransh)
-### 🌱What I’m currently learning
+   - Or you can send me a message directly on [Linkedin]([(https://www.linkedin.com/in/zahra-khodabakhshian-580a41178/)] ) or [Discord]() 
+<!-- ### 🌱What I’m currently learning
   1. Mastering my Linux related skills
-  2. Mastering [Golang programming](https://go.dev/) and writing decent codes
+  2. Mastering [Golang programming](https://go.dev/) and writing decent codes -->
 
-### 💬 Ask me about
+<!-- ### 💬 Ask me about
    - 🖥️ Linux 
  
 ### 🛠️ My Tools
@@ -23,7 +22,7 @@
 - Shell:[🐟Fish](https://fishshell.com/)
 - WM: [🌴Sway](https://swaywm.org/)
 - PKM: [🪨Obsidian](https://obsidian.md/)
-- Dotfiles:  [![](https://img.shields.io/badge/Dotfiles-0D1117?logo=github&logoColor=white)](https://github.com/cyberkatze/dotfiles)
+- Dotfiles:  [![](https://img.shields.io/badge/Dotfiles-0D1117?logo=github&logoColor=white)](https://github.com/cyberkatze/dotfiles) -->
 
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
