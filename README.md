@@ -2,13 +2,13 @@
 <img src="img/ck.gif" width="150" style="border-radius:50%;">
 </div>
 
-## Hi there, I'm MohammadMehrdad Shahidi 
+## Hi there, I'm Zahra Khodabakhshian
 [![](https://dcbadge.vercel.app/api/shield/997729132127457400)](https://discordapp.com/users/997729132127457400)
 [![Linkedin: Mehrdad Shahidi](https://img.shields.io/badge/Mehrdad%20Shahidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrdad-shahidi/)
 [![Twitter: CyberKatzee](https://img.shields.io/badge/cyberkatzee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyberkatzee)
 ### 📫 How to reach me
-   - This is my email 👉 [m.mehrdadshahidi@gmail.com](mailto:m.mehrdadshahidi@gmail.com)
-   - Or you can send me a message directly on [Linkedin](https://www.linkedin.com/in/mehrdad-shahidi/) or [Discord](https://discordapp.com/users/997729132127457400/) 
+   - This is my email 👉 zahrakhodabakhshian54@gmail.com](mailto:yahrakhodabakhshian54@gmail.com)
+   - Or you can send me a message directly on [Linkedin]([https://www.linkedin.com/in/zahrakhodabakhshian/](https://www.linkedi ) or [Discord](https://discordapp.com/users/997729132127457400/) 
    - My twin brother [m3hransh](https://github.com/m3hransh)
 ### 🌱What I’m currently learning
   1. Mastering my Linux related skills
