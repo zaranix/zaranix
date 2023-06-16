@@ -3,8 +3,8 @@
 </div>
 
 ## Hi there, I'm Zahra Khodabakhshian
-[![](https://dcbadge.vercel.app/api/shield/997729132127457400)](https://discordapp.com/users/997729132127457400)
-[![Linkedin: Mehrdad Shahidi](https://img.shields.io/badge/Zahra%20Khodabakhshian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-khodabakhshian)
+<!-- [![](https://dcbadge.vercel.app/api/shield/997729132127457400)](https://discordapp.com/users/997729132127457400) -->
+[![Linkedin: Zahra Khodabakhshian](https://img.shields.io/badge/Zahra%20Khodabakhshian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-khodabakhshian)
 
 ### 📫 How to reach me
    - This is my email 👉 [zahrakhodabakhshian54@gmail.com](mailto:zahrakhodabakhshian54@gmail.com)
