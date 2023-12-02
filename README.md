@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,haskell,git,github,wordpress,nodejs,svelte,jquery,bootstrap,sass&perline=4)](https://skillicons.dev)
 
 
-![Cyberkatze's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaranix&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=tokyonight)
+![Cyberkatze's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaranix&hide=hack%20notebook&langs_count=8&layout=compact&theme=tokyonight)
 ### 🗣️ Human Languages
 - Persian (Native)
 - English (C1)
