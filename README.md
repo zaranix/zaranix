@@ -30,7 +30,7 @@
 ### 🗣️ Human Languages
 - Persian (Native)
 - English (C1)
-- German (A1)
+- German (A2)
 <!-- ### 🔭What I’m currently working on
 1. Building my highly customized operating system
    - [x] Using [Arch Linux](https://archlinux.org/) as a distro
