@@ -23,7 +23,7 @@
 - WM: [🌴Sway](https://swaywm.org/)
 - PKM: [🪨Obsidian](https://obsidian.md/)
 - Dotfiles:  [![](https://img.shields.io/badge/Dotfiles-0D1117?logo=github&logoColor=white)](https://github.com/cyberkatze/dotfiles) -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mui,haskell,git,github,wordpress,jquery,bootstrap,sass,elixir&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,mui,nginx,haskell,git,github,wordpress,jquery,bootstrap,sass,elixir&perline=4)](https://skillicons.dev)
 
 
 ![Cyberkatze's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaranix&hide=hack&langs_count=8&layout=compact&theme=tokyonight)
